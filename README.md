@@ -1,1 +1,1 @@
-# GoogleEarthEngine-en-QGIS-para-el-c-lculo-de-NDVI
+#GoogleEarthEngine en QGIS para el cáculo de NDVI
