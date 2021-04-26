@@ -1,0 +1,1 @@
+# GoogleEarthEngine-en-QGIS-para-el-c-lculo-de-NDVI
